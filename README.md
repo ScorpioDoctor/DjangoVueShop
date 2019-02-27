@@ -1,1 +1,2 @@
-# DjangoVueShop
+# MxShop
+慕课网生鲜电商项目源码-长期维护
